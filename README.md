@@ -1,5 +1,5 @@
-# ThankYouPage
-<!DOCTYPE html>
+
+
 <html lang="en" >
 
 <head>
@@ -13,7 +13,7 @@
   
 </head>
 
-<body></body>
+<body>
 
   <div class="jumbotron text-xs-center">
   <h1 class="display-3">Thank You!</h1>
