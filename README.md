@@ -14,7 +14,7 @@
 </head>
  <style>
         body {
-        background-image: url("https://image.freepik.com/free-photo/real-estate-stationery-isolated-white-background_23-2148183012.jpg");
+        background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg");
        
         }
       </style>
