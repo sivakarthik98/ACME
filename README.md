@@ -12,7 +12,12 @@
   
   
 </head>
-
+ <style>
+        body {
+        background-image: url("https://image.freepik.com/free-photo/real-estate-stationery-isolated-white-background_23-2148183012.jpg");
+       
+        }
+      </style>
 <body>
 
   <div class="jumbotron text-xs-center" width="100">
