@@ -15,7 +15,7 @@
 
 <body>
 
-  <div class="jumbotron text-xs-center">
+  <div class="jumbotron text-xs-center" width="100">
   <h1 class="display-3">Thank You!</h1>
   <p class="lead"><strong></strong> Your From Has Submitted Successfully</p>
   <hr>
@@ -26,10 +26,10 @@
 </div>
 <div style="margin:60px auto;text-align:center;">
 
-    <img src="Acme (1).jpg" alt="BootstrapCreative" width="100" /> <strong>India’s largest database of real estate properties</strong></a>
+    <img src="Acme (1).jpg" alt="BootstrapCreative" width="100" /> <strong>India’s largest database of real estate properties</strong>
 <br><br>
 <a href="https://www.linkedin.com/in/jacoblett/" target="_blank"><strong>Connect on LinkedIn</strong></a>&emsp;&emsp;&emsp;&emsp;<a href="" target="_blank">Connect On Facebook</a>&emsp;&emsp;&emsp;&emsp;<a href="" target="_blank">Connct On Instagram
-</div>`;
+</div>`
 
 </body>
 
