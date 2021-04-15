@@ -28,7 +28,7 @@
 
     <img src="Acme (1).jpg" alt="BootstrapCreative" width="100" /> <strong>India’s largest database of real estate properties</strong></a>
 <br><br>
-<a href="https://www.linkedin.com/in/jacoblett/" target="_blank"><strong>Connect on LinkedIn</strong></a>&emsp;&emsp;&emsp;&emsp;<a href="" target="_blank">Connect On Facebook</a>&emsp;&emsp;&emsp;&emsp;<a href="" target="_blank">Connct On Instagram</a>
+<a href="https://www.linkedin.com/in/jacoblett/" target="_blank"><strong>Connect on LinkedIn</strong></a>&emsp;&emsp;&emsp;&emsp;<a href="" target="_blank">Connect On Facebook</a>&emsp;&emsp;&emsp;&emsp;<a href="" target="_blank">Connct On Instagram
 </div>`;
 
 </body>
