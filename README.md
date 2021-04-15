@@ -21,17 +21,6 @@
 <body>
 
 </body>
-<footer>
-   <p class="lead">
-    <a class="btn btn-primary btn-sm" href="https://hfs--feb2021pg2--c.visualforce.com/apex/Lead_Generator?core.apexpages.request.devconsole=1" role="button">Continue to homepage</a>
-  </p>
 
-<div style="margin:60px auto;text-align:center;">
-
-    <img src="Acme (1).jpg" alt="BootstrapCreative" width="100" /> <strong>India’s largest database of real estate properties</strong>
-<br><br>
-<a href="https://www.linkedin.com/in/jacoblett/" target="_blank"><strong>Connect on LinkedIn</strong></a>&emsp;&emsp;&emsp;&emsp;<a href="" target="_blank">Connect On Facebook</a>&emsp;&emsp;&emsp;&emsp;<a href="" target="_blank">Connct On Instagram></a>
-</div>`
-  </footer>
 
 </html>
