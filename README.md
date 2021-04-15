@@ -20,10 +20,7 @@
       </style>
 <body>
 
-  <div class="jumbotron text-xs-center" width="100">
-  <h1 class="display-3">Thank You!</h1>
-  <p class="lead"><strong></strong> Your From Has Submitted Successfully</p>
-  <hr>
+ 
  
   <p class="lead">
     <a class="btn btn-primary btn-sm" href="https://hfs--feb2021pg2--c.visualforce.com/apex/Lead_Generator?core.apexpages.request.devconsole=1" role="button">Continue to homepage</a>
