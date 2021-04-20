@@ -15,7 +15,7 @@
    <style>
         body,html {
         background-image: url("https://static.vecteezy.com/system/resources/previews/000/182/417/original/thank-you-lettering-vector.jpg");
-        height: auto;
+        height: 50%;
             
         background-position: center;
         background-repeat: no-repeat;
