@@ -14,8 +14,8 @@
 </head>
    <style>
         body,html {
-        background-image: url("https://i.pinimg.com/originals/d9/91/db/d991db0521c00b3d661b2405722cf2ef.jpg");
-        height: 100%;
+        background-image: url("https://static.vecteezy.com/system/resources/previews/000/182/417/original/thank-you-lettering-vector.jpg");
+        height: auto;
             
         background-position: center;
         background-repeat: no-repeat;
