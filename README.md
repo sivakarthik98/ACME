@@ -12,18 +12,14 @@
   
   
 </head>
- <style>
-        body {
-        background-image: url("https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1318/2020/08/28190328/GettyImages-1210869723-818x460.jpg");
-        
-        width:auto;
-        height:auto;
-        
+body,html {
+        background-image: url("https://www.heritagelawllp.com/wp-content/uploads/2016/07/office-1209640-1024x683.jpg");
+        height: 130%;
+            
+        background-position: center;
         background-repeat: no-repeat;
-
-        
+        background-size: cover;
         }
-      </style>
 <body>
 
 </body>
