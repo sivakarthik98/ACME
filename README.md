@@ -12,16 +12,16 @@
   
   
 </head>
-<style>
-body,html {
+   <style>
+        body,html {
         background-image: url("https://www.heritagelawllp.com/wp-content/uploads/2016/07/office-1209640-1024x683.jpg");
-        height: 150%;
+        height: 130%;
             
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
         }
-        </style>
+      </style>
 <body>
 
 </body>
