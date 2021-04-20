@@ -14,8 +14,8 @@
 </head>
    <style>
         body,html {
-        background-image: url("https://www.heritagelawllp.com/wp-content/uploads/2016/07/office-1209640-1024x683.jpg");
-        height: 130%;
+        background-image: url("https://i.pinimg.com/originals/d9/91/db/d991db0521c00b3d661b2405722cf2ef.jpg");
+        height: 100%;
             
         background-position: center;
         background-repeat: no-repeat;
